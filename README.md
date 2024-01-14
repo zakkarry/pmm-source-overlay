@@ -12,4 +12,10 @@ This will do show, individual seasons, and movies.
 
 Don't add season_sources line if you don't want to do individual seasons.
 
+Example images from my library - Please note I have a few extra TV sources that are not standard. It is easy to add any you wish with basic PMM overlay knowledge.
+
+![](./example/tv_example.png)
+
+![](./example/movie_example.png)
+
 Thanks to bullmoose, anonfawkes, Mr. Carrot, Yozora, and the PMM Team and Discord in general, for PNGs and for helping me.
